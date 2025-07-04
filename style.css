@@ -250,8 +250,8 @@ section {
     position: absolute;
     width: 100%;
     height: 100%;
-    /* -webkit-backface-visibility: hidden; /* Safari */
-    /* backface-visibility: hidden; */ /* Temporarily commented out for debugging */
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden; /* Restored */
     border-radius: 10px;
     padding: 2rem;
     display: flex;
