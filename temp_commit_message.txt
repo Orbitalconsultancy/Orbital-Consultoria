@@ -1,1 +1,1 @@
-feat: Añadir carpetas de imágenes y videos y corregir rutas en index.html
+fix: Corregir URLs de imágenes y videos a raw.githubusercontent.com
