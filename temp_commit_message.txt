@@ -1,1 +1,1 @@
-feat: Añadir imágenes, videos y corregir rutas
+feat: Añadir carpetas de imágenes y videos y corregir rutas en index.html
