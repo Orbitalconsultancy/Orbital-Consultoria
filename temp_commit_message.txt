@@ -1,1 +1,1 @@
-feat: Actualización completa de la página web con mejoras de responsividad y contenido
+feat: Añadir imágenes, videos y corregir rutas
