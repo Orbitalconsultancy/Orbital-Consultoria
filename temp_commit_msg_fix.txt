@@ -1,0 +1,3 @@
+fix: Corregidas rutas de CSS y JS para GitHub Pages
+
+- Se modificaron las rutas absolutas a relativas en index.html para style.css y script.js.
