@@ -1,1 +1,1 @@
-feat: Aplicar todas las modificaciones de la página web
+feat: Actualización completa de la página web con mejoras de responsividad y contenido
