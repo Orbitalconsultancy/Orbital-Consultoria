@@ -1,1 +1,1 @@
-fix: Comentar backface-visibility para depurar video
+fix: Restaurar backface-visibility para corregir diseño de cuadros
